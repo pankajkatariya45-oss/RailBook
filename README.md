@@ -3,7 +3,7 @@
 Indian railway ticket booking ka demo Android app (Kotlin + Jetpack Compose).
 
 ## Download
-[RailBook-v1.0.1.apk download karein](https://github.com/pankajkatariya45-oss/RailBook/releases/latest/download/RailBook-v1.0.1.apk)
+[RailBook-v1.0.1.apk download karein](https://github.com/pankajkatariya45-oss/RailBook/raw/main/RailBook-v1.0.1.apk)
 
 - Android 7.0 ya usse naya
 - Install ke time "Install unknown apps" allow karein
